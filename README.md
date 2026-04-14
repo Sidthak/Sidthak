@@ -1,72 +1,188 @@
 <h1 align="center">Hi 👋, I'm Sidhant Thakur</h1>
-<h3 align="center">I'm passionate about Machine Learning and Data Science. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in computing power and the freedom to take a large amount of data pushes the field of Data Science and Machine Learning to a whole new level.</h3>
 
-- 🌱 I’m currently learning **Microsoft azure, AWS, Databrick**
+<h3 align="center">Data Scientist → AI Engineer &nbsp;|&nbsp; LLMs · RAG · Fine-Tuning &nbsp;|&nbsp; Merck &nbsp;|&nbsp; DePaul University</h3>
 
-- 💬 Ask me about **I'm Sidhant Thakur, a dedicated and passionate individual with a keen interest in the fields of Machine Learning and Data Science. I currently pursue my academic journey at DePaul University, where I am majoring in Data Science. My academic pursuits and professional experiences have equipped me with a strong foundation in data analysis,Machine Learning and predictive modeling.**
-
-- 📫 How to reach me **sthakur5@depaul.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sidhant-thakur-67b2a2169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidhant-thakur-67b2a2169" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/sidhant-thakur-67b2a2169" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sidhantthakur222@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Chicago%2C%20IL-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20Roles-brightgreen?style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">👨‍💻 About Me</h3>
+
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://spark.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="PySpark" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  
-  <!-- Add more links and icons for other skills you have -->
-
-
-  <a href="https://conda.io" target="_blank" rel="noreferrer">
-    <img src="https://conda.io/docs/_images/conda_logo.svg" alt="Conda" width="40" height="40"/>
-  </a>
-  <a href="https://colab.research.google.com" target="_blank" rel="noreferrer">
-    <img src="https://colab.research.google.com/img/colab_favicon.ico" alt="Google Colab" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/452/microsoft-office-2019.png" alt="Microsoft Office" width="40" height="40"/>
-  </a>
-  
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://databricks.com/wp-content/uploads/2018/03/db-academy.png" alt="Databricks" width="40" height="40"/>
-  </a>
-  <!-- Add more links and icons for other skills you have -->
-  
-  
-
+Data Scientist with experience building ML systems across healthcare, pharma, and enterprise — now going deep into <strong>AI Engineering</strong>. I build production-grade LLM systems, not just experiments.
 </p>
 
+- 🏢 Currently: **Data Scientist @ Merck** — building RAG workflows, LLM summarization, and fraud detection systems
+- 🎓 **M.S. Data Science** — DePaul University
+- 🔨 Building: Production RAG systems, LLM observability, multi-agent pipelines
+- 🎯 Goal: Full-stack AI Engineer — from data pipelines to deployed LLM products
+
+---
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+<h4><a href="https://github.com/Sidthak/studyrag">StudyRAG</a> — Production RAG System</h4>
+<p>Ask questions over your own documents using hybrid AI search</p>
+
+- ⚡ Hybrid retrieval: BM25 keyword search + vector semantic search (Reciprocal Rank Fusion)
+- 🎯 Cross-encoder reranking with <code>ms-marco-MiniLM-L-6-v2</code>
+- 🛡️ Citation enforcement — declines to answer if context doesn't support the response
+- 💬 Chat UI built with Streamlit
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="left">🧠 Generative AI Skills</h3>
+
+<pre>
+RAG Pipelines          ████████████████████  Production
+LangChain / LangGraph  ████████████████████  Production
+Prompt Engineering     ████████████████████  Production
+Embedding Search       ████████████████████  Production
+LLM Summarization      ████████████████████  Production
+LoRA / QLoRA           ████████████████░░░░  Learning
+LLM Observability      ████████████████░░░░  Learning
+Multi-Agent Systems    ██████████████░░░░░░  Learning
+</pre>
+
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>🔍 RAG & Retrieval</td>
+    <td>RAG Pipelines · Hybrid Search · Cross-Encoder Reranking · FAISS · Pinecone · ChromaDB</td>
+  </tr>
+  <tr>
+    <td>🤖 LLM Frameworks</td>
+    <td>LangChain · LangGraph · OpenAI GPT-4 · Prompt Engineering · Chain-of-Thought · Few-Shot</td>
+  </tr>
+  <tr>
+    <td>🎯 Fine-Tuning</td>
+    <td>LoRA · QLoRA · Hugging Face Transformers · Parameter-Efficient Fine-Tuning</td>
+  </tr>
+  <tr>
+    <td>📊 ML & NLP</td>
+    <td>Scikit-learn · PyTorch · TensorFlow · XGBoost · Text Summarization · NER</td>
+  </tr>
+</table>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+
+<p align="left"><strong>AI / LLM</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-00B4D8?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logoColor=white"/>
+</p>
+
+<p align="left"><strong>Languages</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+</p>
+
+<p align="left"><strong>Machine Learning</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+</p>
+
+<p align="left"><strong>Cloud & MLOps</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+<p align="left"><strong>Visualization</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="left">💼 Experience Highlights</h3>
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Role</th>
+    <th>AI Impact</th>
+  </tr>
+  <tr>
+    <td><strong>Merck</strong> · 2025–Present</td>
+    <td>Data Scientist</td>
+    <td>RAG evidence-retrieval ↓45% gathering time · LLM summarization ↓45% review time</td>
+  </tr>
+  <tr>
+    <td><strong>Blue Cross Blue Shield</strong> · 2024–2025</td>
+    <td>Data Scientist</td>
+    <td>LLM Q&A workflow ↓35% SQL requests · Embedding search ↓50% lookup time</td>
+  </tr>
+  <tr>
+    <td><strong>Dell Technologies</strong> · 2019–2021</td>
+    <td>Data Analyst</td>
+    <td>Azure ML pipelines · Random Forest segmentation · Predictive failure models</td>
+  </tr>
+</table>
+
+---
+
+<h3 align="left">🌱 Currently Learning</h3>
+
+- 🔭 AI Monitoring & Observability (Langfuse, LangSmith)
+- 🤝 Multi-agent systems with LangGraph
+- 🚀 LLM deployment at scale (Docker, FastAPI, Kubernetes)
+
+---
+
+<h3 align="left">📫 Connect with me</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/sidhant-thakur-67b2a2169" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidhant-thakur-67b2a2169" height="30" width="40"/>
+  </a>
+  &nbsp; sidhantthakur222@gmail.com
+</p>
