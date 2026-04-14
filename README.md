@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidhant Thakur</h1>
 
-<h3 align="center">Data Scientist → AI Engineer &nbsp;|&nbsp; LLMs · RAG · Fine-Tuning &nbsp;|&nbsp; Merck &nbsp;|&nbsp; DePaul University</h3>
+<h3 align="center">Data Scientist → AI Engineer &nbsp;|&nbsp; LLMs · RAG · Monitoring &nbsp;|&nbsp; Merck &nbsp;|&nbsp; DePaul University</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sidhant-thakur-67b2a2169" target="blank">
@@ -21,7 +21,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Data Scientist with experience building ML systems across healthcare, pharma, and enterprise — now going deep into <strong>AI Engineering</strong>. I build production-grade LLM systems, not just experiments.
+Data Scientist with <strong>5+ years</strong> building ML systems across healthcare, pharma, and enterprise — now going deep into <strong>AI Engineering</strong>. I build production-grade LLM systems, not just experiments.
 </p>
 
 - 🏢 Currently: **Data Scientist @ Merck** — building RAG workflows, LLM summarization, and fraud detection systems
@@ -33,7 +33,7 @@ Data Scientist with experience building ML systems across healthcare, pharma, an
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-<h4><a href="https://github.com/Sidthak/studyrag">StudyRAG</a> — Production RAG System</h4>
+<h4>1. <a href="https://github.com/Sidthak/studyrag">StudyRAG</a> — Production RAG System</h4>
 <p>Ask questions over your own documents using hybrid AI search</p>
 
 - ⚡ Hybrid retrieval: BM25 keyword search + vector semantic search (Reciprocal Rank Fusion)
@@ -49,6 +49,22 @@ Data Scientist with experience building ML systems across healthcare, pharma, an
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
+<h4>2. <a href="https://github.com/Sidthak/studyrag">StudyRAG Monitoring</a> — AI Observability Layer</h4>
+<p>Production-grade monitoring and tracing built on top of StudyRAG</p>
+
+- 🔭 End-to-end query tracing with **LangSmith** — every retrieval step, chunk, and rerank score tracked
+- ⏱️ Local latency tracking — P50/P95 response times per query
+- 📊 Live Streamlit dashboard — total queries, avg latency, declined queries, rerank quality scores
+- 🗄️ SQLite metrics store — full query log with timestamps, sources, and answer quality
+- 🛑 Declined query tracking — monitors when citation enforcement triggers
+
+<p>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
 ---
 
 <h3 align="left">🧠 Generative AI Skills</h3>
@@ -59,8 +75,8 @@ LangChain / LangGraph  ███████████████████
 Prompt Engineering     ████████████████████  Production
 Embedding Search       ████████████████████  Production
 LLM Summarization      ████████████████████  Production
+LLM Observability      ████████████████████  Production
 LoRA / QLoRA           ████████████████░░░░  Learning
-LLM Observability      ████████████████░░░░  Learning
 Multi-Agent Systems    ██████████████░░░░░░  Learning
 </pre>
 
@@ -72,6 +88,10 @@ Multi-Agent Systems    ██████████████░░░░░
   <tr>
     <td>🔍 RAG & Retrieval</td>
     <td>RAG Pipelines · Hybrid Search · Cross-Encoder Reranking · FAISS · Pinecone · ChromaDB</td>
+  </tr>
+  <tr>
+    <td>🔭 Observability</td>
+    <td>LangSmith · Tracing · Latency Metrics · Query Logging · SQLite · Streamlit Dashboards</td>
   </tr>
   <tr>
     <td>🤖 LLM Frameworks</td>
@@ -95,6 +115,7 @@ Multi-Agent Systems    ██████████████░░░░░
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
@@ -133,12 +154,13 @@ Multi-Agent Systems    ██████████████░░░░░
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-<p align="left"><strong>Visualization</strong></p>
+<p align="left"><strong>Visualization & Monitoring</strong></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
@@ -172,8 +194,8 @@ Multi-Agent Systems    ██████████████░░░░░
 
 <h3 align="left">🌱 Currently Learning</h3>
 
-- 🔭 AI Monitoring & Observability (Langfuse, LangSmith)
 - 🤝 Multi-agent systems with LangGraph
+- 🎯 Fine-tuning with LoRA/QLoRA
 - 🚀 LLM deployment at scale (Docker, FastAPI, Kubernetes)
 
 ---
