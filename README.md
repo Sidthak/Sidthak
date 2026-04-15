@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidhant Thakur</h1>
-
-<h3 align="center">Data Scientist → AI Engineer &nbsp;|&nbsp; LLMs · RAG · LangGraph · Agents &nbsp;|&nbsp; Merck &nbsp;|&nbsp; DePaul University</h3>
-
+<h3 align="center">Data Scientist → AI / GenAI Engineer &nbsp;|&nbsp; LLMs · RAG · LangGraph · Agents &nbsp;|&nbsp; Merck &nbsp;|&nbsp; DePaul University</h3>
 <p align="center">
   <a href="https://linkedin.com/in/sidhant-thakur-67b2a2169" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -12,8 +10,12 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Chicago%2C%20IL-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer-brightgreen?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20Roles-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-GenAI%20Engineer-blueviolet?style=for-the-badge"/>
+  &nbsp;
 </p>
 
 ---
@@ -21,7 +23,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Data Scientist with <strong>5+ years</strong> building ML systems across healthcare, pharma, and enterprise — now going deep into <strong>AI Engineering</strong>. I build production-grade LLM systems, not just experiments.
+Data Scientist with experience building ML systems across healthcare, pharma, and enterprise — now going deep into <strong>AI Engineering</strong>. I build production-grade LLM systems, not just experiments.
 </p>
 
 - 🏢 Currently: **Data Scientist @ Merck** — building RAG workflows, LLM summarization, and fraud detection systems
