@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidhant Thakur</h1>
 
-<h3 align="center">Data Scientist → AI Engineer &nbsp;|&nbsp; LLMs · RAG · Monitoring &nbsp;|&nbsp; Merck &nbsp;|&nbsp; DePaul University</h3>
+<h3 align="center">Data Scientist → AI Engineer &nbsp;|&nbsp; LLMs · RAG · LangGraph · Agents &nbsp;|&nbsp; Merck &nbsp;|&nbsp; DePaul University</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sidhant-thakur-67b2a2169" target="blank">
@@ -26,7 +26,7 @@ Data Scientist with <strong>5+ years</strong> building ML systems across healthc
 
 - 🏢 Currently: **Data Scientist @ Merck** — building RAG workflows, LLM summarization, and fraud detection systems
 - 🎓 **M.S. Data Science** — DePaul University
-- 🔨 Building: Production RAG systems, LLM observability, multi-agent pipelines
+- 🔨 Building: Production RAG systems, LangGraph agents, LLM observability
 - 🎯 Goal: Full-stack AI Engineer — from data pipelines to deployed LLM products
 
 ---
@@ -56,13 +56,30 @@ Data Scientist with <strong>5+ years</strong> building ML systems across healthc
 - ⏱️ Local latency tracking — P50/P95 response times per query
 - 📊 Live Streamlit dashboard — total queries, avg latency, declined queries, rerank quality scores
 - 🗄️ SQLite metrics store — full query log with timestamps, sources, and answer quality
-- 🛑 Declined query tracking — monitors when citation enforcement triggers
 
 <p>
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+<h4>3. <a href="https://github.com/Sidthak/adaptiverag">AdaptiveRAG</a> — Intelligent Query Routing Agent</h4>
+<p>A LangGraph agent that decides where to look before answering — web, documents, or both</p>
+
+- 🔀 Query routing — LLM decides: web search, document retrieval, or both
+- ✅ CRAG — grades retrieved results before generating an answer
+- ⏸️ Real HITL — LangGraph <code>interrupt_before</code> pauses the graph for human input
+- 🌐 Web search via Tavily API for real-time information
+- 🔭 Full LangSmith tracing on every graph node
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tavily-00B4D8?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
@@ -76,6 +93,8 @@ Prompt Engineering     ███████████████████
 Embedding Search       ████████████████████  Production
 LLM Summarization      ████████████████████  Production
 LLM Observability      ████████████████████  Production
+Agentic Systems        ████████████████████  Production
+CRAG / Self-RAG        ████████████████████  Production
 LoRA / QLoRA           ████████████████░░░░  Learning
 Multi-Agent Systems    ██████████████░░░░░░  Learning
 </pre>
@@ -87,15 +106,19 @@ Multi-Agent Systems    ██████████████░░░░░
   </tr>
   <tr>
     <td>🔍 RAG & Retrieval</td>
-    <td>RAG Pipelines · Hybrid Search · Cross-Encoder Reranking · FAISS · Pinecone · ChromaDB</td>
+    <td>RAG Pipelines · Hybrid Search · Cross-Encoder Reranking · FAISS · Pinecone · ChromaDB · CRAG</td>
+  </tr>
+  <tr>
+    <td>🤖 Agents & Graphs</td>
+    <td>LangGraph · Query Routing · HITL · Conditional Edges · MemorySaver · Tavily</td>
   </tr>
   <tr>
     <td>🔭 Observability</td>
     <td>LangSmith · Tracing · Latency Metrics · Query Logging · SQLite · Streamlit Dashboards</td>
   </tr>
   <tr>
-    <td>🤖 LLM Frameworks</td>
-    <td>LangChain · LangGraph · OpenAI GPT-4 · Prompt Engineering · Chain-of-Thought · Few-Shot</td>
+    <td>💬 LLM Frameworks</td>
+    <td>LangChain · OpenAI GPT-4 · Prompt Engineering · Chain-of-Thought · Few-Shot</td>
   </tr>
   <tr>
     <td>🎯 Fine-Tuning</td>
@@ -120,6 +143,7 @@ Multi-Agent Systems    ██████████████░░░░░
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinecone-00B4D8?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tavily-00B4D8?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logoColor=white"/>
 </p>
 
@@ -191,12 +215,6 @@ Multi-Agent Systems    ██████████████░░░░░
 </table>
 
 ---
-
-<h3 align="left">🌱 Currently Learning</h3>
-
-- 🤝 Multi-agent systems with LangGraph
-- 🎯 Fine-tuning with LoRA/QLoRA
-- 🚀 LLM deployment at scale (Docker, FastAPI, Kubernetes)
 
 ---
 
