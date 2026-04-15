@@ -86,21 +86,6 @@ Data Scientist with experience building ML systems across healthcare, pharma, an
 
 ---
 
-<h3 align="left">🧠 Generative AI Skills</h3>
-
-<pre>
-RAG Pipelines          ████████████████████  Production
-LangChain / LangGraph  ████████████████████  Production
-Prompt Engineering     ████████████████████  Production
-Embedding Search       ████████████████████  Production
-LLM Summarization      ████████████████████  Production
-LLM Observability      ████████████████████  Production
-Agentic Systems        ████████████████████  Production
-CRAG / Self-RAG        ████████████████████  Production
-LoRA / QLoRA           ████████████████░░░░  Learning
-Multi-Agent Systems    ██████████████░░░░░░  Learning
-</pre>
-
 <table>
   <tr>
     <th>Area</th>
