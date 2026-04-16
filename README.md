@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhant Thakur</h1>
-<h3 align="center">Data Scientist → AI / GenAI Engineer &nbsp;|&nbsp; LLMs · RAG · LangGraph · Agents &nbsp;|&nbsp; Merck &nbsp;|&nbsp; DePaul University</h3>
+
+<h3 align="center">AI/ML Engineer &nbsp;|&nbsp; LangGraph · RAG · Agentic AI · LLMs &nbsp;|&nbsp; Merck &nbsp;|&nbsp; DePaul University</h3>
+
 <p align="center">
   <a href="https://linkedin.com/in/sidhant-thakur-67b2a2169" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,11 +13,13 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Chicago%2C%20IL-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer-brightgreen?style=for-the-badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-GenAI%20Engineer-blueviolet?style=for-the-badge"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-ML%20Engineer-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -23,68 +27,83 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Data Scientist with experience building ML systems across healthcare, pharma, and enterprise — now going deep into <strong>AI Engineering</strong>. I build production-grade LLM systems, not just experiments.
+AI/ML Engineer and Data Scientist with 4+ years building and shipping production ML and GenAI systems across pharma, healthcare, and enterprise. I build production-grade agentic AI systems and LLM pipelines — not just experiments.
 </p>
 
-- 🏢 Currently: **Data Scientist @ Merck** — building RAG workflows, LLM summarization, and fraud detection systems
+- 🏢 Currently: **AI/ML Engineer @ Merck** — production RAG pipelines, LLM summarization, embedding search, and anomaly detection
 - 🎓 **M.S. Data Science** — DePaul University
-- 🔨 Building: Production RAG systems, LangGraph agents, LLM observability
-- 🎯 Goal: Full-stack AI Engineer — from data pipelines to deployed LLM products
+- 🔨 Built: Agentic RAG agent with LangGraph + CRAG + HITL, hybrid RAG system with CI evaluation pipeline
+- 🎯 Target roles: **AI Engineer · GenAI Engineer · ML Engineer · LLM Engineer**
+
+---
+
+<h3 align="left">🎯 Role Match</h3>
+
+<table>
+  <tr>
+    <th>Role</th>
+    <th>What they want</th>
+    <th>What I have</th>
+  </tr>
+  <tr>
+    <td><strong>AI Engineer</strong></td>
+    <td>RAG, LLM APIs, vector DBs, production pipelines</td>
+    <td>✅ Production RAG + monitoring + LangGraph agent shipped</td>
+  </tr>
+  <tr>
+    <td><strong>GenAI Engineer</strong></td>
+    <td>LangChain, LangGraph, agents, CRAG, HITL</td>
+    <td>✅ 6-node LangGraph agent with CRAG + real HITL + LangSmith tracing</td>
+  </tr>
+  <tr>
+    <td><strong>ML Engineer</strong></td>
+    <td>PyTorch, MLOps, cloud deployment, pipelines</td>
+    <td>✅ 5+ years PyTorch/TF, AWS/Azure/GCP, MLflow, Kafka, Spark</td>
+  </tr>
+</table>
 
 ---
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-<h4>1. <a href="https://github.com/Sidthak/studyrag">StudyRAG</a> — Production RAG System</h4>
-<p>Ask questions over your own documents using hybrid AI search</p>
+<h4>1. <a href="https://github.com/Sidthak/adaptiverag">AdaptiveRAG</a> — Agentic RAG System with LangGraph, CRAG, and HITL</h4>
+<p>A LangGraph agent that routes queries to web, documents, or both — grades results before answering — and pauses for human input when unsure</p>
 
-- ⚡ Hybrid retrieval: BM25 keyword search + vector semantic search (Reciprocal Rank Fusion)
-- 🎯 Cross-encoder reranking with <code>ms-marco-MiniLM-L-6-v2</code>
-- 🛡️ Citation enforcement — declines to answer if context doesn't support the response
-- 💬 Chat UI built with Streamlit
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-<h4>2. <a href="https://github.com/Sidthak/studyrag">StudyRAG Monitoring</a> — AI Observability Layer</h4>
-<p>Production-grade monitoring and tracing built on top of StudyRAG</p>
-
-- 🔭 End-to-end query tracing with **LangSmith** — every retrieval step, chunk, and rerank score tracked
-- ⏱️ Local latency tracking — P50/P95 response times per query
-- 📊 Live Streamlit dashboard — total queries, avg latency, declined queries, rerank quality scores
-- 🗄️ SQLite metrics store — full query log with timestamps, sources, and answer quality
-
-<p>
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-<h4>3. <a href="https://github.com/Sidthak/adaptiverag">AdaptiveRAG</a> — Intelligent Query Routing Agent</h4>
-<p>A LangGraph agent that decides where to look before answering — web, documents, or both</p>
-
-- 🔀 Query routing — LLM decides: web search, document retrieval, or both
-- ✅ CRAG — grades retrieved results before generating an answer
-- ⏸️ Real HITL — LangGraph <code>interrupt_before</code> pauses the graph for human input
-- 🌐 Web search via Tavily API for real-time information
-- 🔭 Full LangSmith tracing on every graph node
+- 🔀 **Query routing** — LLM classifies each query to web search, document retrieval, or hybrid
+- ✅ **CRAG** — 100% block rate on low-confidence retrievals before hitting the LLM
+- ⏸️ **Real HITL** — LangGraph `interrupt_before` pauses graph mid-execution for human clarification
+- 🔭 **LangSmith tracing** — all 6 nodes traced end-to-end for 100% of executions
 
 <p>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CRAG-412991?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HITL-brightgreen?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tavily-00B4D8?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+<h4>2. <a href="https://github.com/Sidthak/studyrag">StudyRAG</a> — Production RAG System with Hybrid Retrieval and Observability</h4>
+<p>Ask questions over your own documents — hybrid AI search with full observability and CI-gated evaluation</p>
+
+- ⚡ **Hybrid retrieval** — BM25 + vector search via Reciprocal Rank Fusion across 107 document chunks
+- 🎯 **Cross-encoder reranking** — `ms-marco-MiniLM-L-6-v2` with citation enforcement (100% refusal rate on unsupported queries)
+- 🔭 **LangSmith tracing** + SQLite metrics store + live Streamlit dashboard
+- 🧪 **Ragas CI gate** — 50-item golden dataset, blocks deployments on metric regression
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ragas-0052CC?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
+
 
 <table>
   <tr>
@@ -93,27 +112,27 @@ Data Scientist with experience building ML systems across healthcare, pharma, an
   </tr>
   <tr>
     <td>🔍 RAG & Retrieval</td>
-    <td>RAG Pipelines · Hybrid Search · Cross-Encoder Reranking · FAISS · Pinecone · ChromaDB · CRAG</td>
+    <td>RAG · Hybrid Search · BM25 · Cross-Encoder Reranking · FAISS · Pinecone · ChromaDB · CRAG · Self-RAG</td>
   </tr>
   <tr>
     <td>🤖 Agents & Graphs</td>
-    <td>LangGraph · Query Routing · HITL · Conditional Edges · MemorySaver · Tavily</td>
+    <td>LangGraph · Query Routing · HITL · Conditional Edges · MemorySaver · Subgraphs · MCP · Tavily</td>
   </tr>
   <tr>
     <td>🔭 Observability</td>
-    <td>LangSmith · Tracing · Latency Metrics · Query Logging · SQLite · Streamlit Dashboards</td>
+    <td>LangSmith · Tracing · Latency Metrics · Query Logging · Ragas · SQLite · Streamlit Dashboards</td>
   </tr>
   <tr>
     <td>💬 LLM Frameworks</td>
-    <td>LangChain · OpenAI GPT-4 · Prompt Engineering · Chain-of-Thought · Few-Shot</td>
+    <td>LangChain · OpenAI GPT-4o · Google Gemini · Claude · Prompt Engineering · CoT · Few-Shot</td>
   </tr>
   <tr>
     <td>🎯 Fine-Tuning</td>
     <td>LoRA · QLoRA · Hugging Face Transformers · Parameter-Efficient Fine-Tuning</td>
   </tr>
   <tr>
-    <td>📊 ML & NLP</td>
-    <td>Scikit-learn · PyTorch · TensorFlow · XGBoost · Text Summarization · NER</td>
+    <td>📊 ML & Data Science</td>
+    <td>PyTorch · TensorFlow · Scikit-learn · XGBoost · Random Forests · SVM · CNN · NER · SHAP · Time-Series</td>
   </tr>
 </table>
 
@@ -121,7 +140,7 @@ Data Scientist with experience building ML systems across healthcare, pharma, an
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
-<p align="left"><strong>AI / LLM</strong></p>
+<p align="left"><strong>AI / GenAI / LLM</strong></p>
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -186,23 +205,22 @@ Data Scientist with experience building ML systems across healthcare, pharma, an
   </tr>
   <tr>
     <td><strong>Merck</strong> · 2025–Present</td>
-    <td>Data Scientist</td>
-    <td>RAG evidence-retrieval ↓45% gathering time · LLM summarization ↓45% review time</td>
+    <td>AI/ML Engineer</td>
+    <td>Production RAG ↓45% evidence-gathering · LLM summarization ↓45% review time · Embedding search ↓40% lookup time</td>
   </tr>
   <tr>
     <td><strong>Blue Cross Blue Shield</strong> · 2024–2025</td>
     <td>Data Scientist</td>
-    <td>LLM Q&A workflow ↓35% SQL requests · Embedding search ↓50% lookup time</td>
+    <td>LLM Q&A ↓35% SQL requests · Embedding search ↓50% lookup time · LLM summarization ↓60% review time</td>
   </tr>
   <tr>
     <td><strong>Dell Technologies</strong> · 2019–2021</td>
-    <td>Data Analyst</td>
-    <td>Azure ML pipelines · Random Forest segmentation · Predictive failure models</td>
+    <td>Data Scientist</td>
+    <td>Predictive failure models across 100+ product lines · Random Forest segmentation · Pricing analysis on 3M+ transactions</td>
   </tr>
 </table>
 
 ---
-
 ---
 
 <h3 align="left">📫 Connect with me</h3>
